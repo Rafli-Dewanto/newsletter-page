@@ -1,0 +1,12 @@
+.jumbotron{
+    position: fixed;
+    top: 0;
+    background-color: rgb(255, 219, 219);
+    width: 100%;
+    height: 40vh;
+    z-index: 100;
+}
+
+.jumbotron .container{
+    margin-top: 20px;
+}
